@@ -3,6 +3,6 @@
 
    #thirdDiv { height: 600px; width: 500px;
     background-color: crimson; }
-   #spanId{ font-size: 18px; margin: 50px;}
-   
+   #spanId [ font-size: 18px; margin: 50px;]
+
 </style>
